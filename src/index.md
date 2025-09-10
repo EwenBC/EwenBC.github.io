@@ -15,22 +15,42 @@ footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   and not fully completed.
+
 ---
-**In construction.**
+<a href="https://deducteam.gitlabpages.inria.fr/">
+  <img src="/img/logo/logo_deducteam.svg" alt="logo Deducteam" width="180">
+</a>
+<a href="https://www.universite-paris-saclay.fr/en">
+  <img src="/img/logo/logo_UPS.png" alt="logo Université Paris Saclay" width="180">
+</a>
+<a href="https://lmf.cnrs.fr/Main/HomePage?lang=en">
+  <img src="/img/logo/logo_lmf.svg" alt="logo LMF" width="180">
+</a>
+<a href="https://www.inria.fr/en">
+  <img src="/img/logo/logo_inria.svg" alt="logo INRIA" width="180">
+</a>
+<a href="https://ens-paris-saclay.fr/en">
+  <img src="/img/logo/logo_ENSPS.jpg" alt="logo ENS Paris Saclay" width="180">
+</a>
+
+---
+
+**Under construction.**
 I'm a PHD student supervised by
 [Théo Winterhalter](https://theowinterhalter.github.io/) and
 [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 in [Deducteam](https://deducteam.gitlabpages.inria.fr/).
 I'm affiliated with
 [University Paris Saclay](https://www.universite-paris-saclay.fr/en),
-[LMF](https://lmf.cnrs.fr/),
+[LMF](https://lmf.cnrs.fr/Main/HomePage?lang=en),
 [INRIA Saclay](https://www.inria.fr/en/inria-saclay-centre) and
-[ENS Paris Saclay](https://ens-paris-saclay.fr/).
+[ENS Paris Saclay](https://ens-paris-saclay.fr/en).
 
 My thesis subject is "Ghosts in dependent type theory: new principles and definitional equalities".
 
-
 ---
+
+
 In 2024-25 I did a year long internship in the Netherlands on
 [agda core](https://github.com/jespercockx/agda-core) supervised by [Jesper Cockx](https://jesper.sikanda.be/) at [TuDelft
 University](https://www.tudelft.nl/en/) in the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/).
