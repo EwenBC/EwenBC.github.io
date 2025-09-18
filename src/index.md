@@ -3,7 +3,7 @@ title: Ewen Broudin-Caradec
 author: Ewen Broudin-Caradec
 shortbio: PHD Student in computer science
 description-meta: PHD Student
-location: 4 Avenue des Sciences, ENS Paris Saclay desk 2I__
+location: 4 Avenue des Sciences, ENS Paris Saclay desk 2S64
 email: firstname.lastname@lmf.cnrs.fr
 picture: img/red_circle.png
 picture-round: false
@@ -54,7 +54,7 @@ My thesis subject is "Ghosts in dependent type theory: new principles and defini
 
 
 In 2024-25 I did a year long internship in the Netherlands on <a href="https://github.com/jespercockx/agda-core">
-  <img src="https://raw.githubusercontent.com/jespercockx/agda-core/4d1ab9008c96bae7958169262000df875490c8f7/logo.svg"
+  <img src="img/logo/logo_AgdaCore.svg"
   alt="logo Agda Core"
   style="position:relative; top:4px;"
   width="100">
