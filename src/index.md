@@ -1,10 +1,10 @@
 ---
-title: Homepage
+title: Ewen Broudin-Caradec
 author: Ewen Broudin-Caradec
 shortbio: PHD Student in computer science
 description-meta: PHD Student
-location: ENS Paris Saclay, France
-email:
+location: 4 Avenue des Sciences, ENS Paris Saclay desk 2I__
+email: firstname.lastname@lmf.cnrs.fr
 picture: img/red_circle.png
 picture-round: false
 side-by-side: true
@@ -30,16 +30,18 @@ footer: >-
   <img src="/img/logo/logo_inria.svg" alt="logo INRIA" width="180">
 </a>
 <a href="https://ens-paris-saclay.fr/en">
-  <img src="/img/logo/logo_ENSPS.jpg" alt="logo ENS Paris Saclay" width="180">
+  <img src="/img/logo/logo_ENSPS.png" alt="logo ENS Paris Saclay" width="180">
 </a>
 
 ---
 
 **Under construction.**
+
 I'm a PHD student supervised by
 [Théo Winterhalter](https://theowinterhalter.github.io/) and
 [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 in [Deducteam](https://deducteam.gitlabpages.inria.fr/).
+
 I'm affiliated with
 [University Paris Saclay](https://www.universite-paris-saclay.fr/en),
 [LMF](https://lmf.cnrs.fr/Main/HomePage?lang=en),
@@ -51,9 +53,16 @@ My thesis subject is "Ghosts in dependent type theory: new principles and defini
 ---
 
 
-In 2024-25 I did a year long internship in the Netherlands on
-[agda core](https://github.com/jespercockx/agda-core) supervised by [Jesper Cockx](https://jesper.sikanda.be/) at [TuDelft
-University](https://www.tudelft.nl/en/) in the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/).
+In 2024-25 I did a year long internship in the Netherlands on <a href="https://github.com/jespercockx/agda-core">
+  <img src="https://raw.githubusercontent.com/jespercockx/agda-core/4d1ab9008c96bae7958169262000df875490c8f7/logo.svg"
+  alt="logo Agda Core"
+  style="position:relative; top:4px;"
+  width="100">
+</a>
+supervised by [Jesper Cockx](https://jesper.sikanda.be/)
+at [TuDelft University](https://www.tudelft.nl/en/)
+in the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/).
+
 
 <!--
 # Publications
