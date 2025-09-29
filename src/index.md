@@ -3,7 +3,7 @@ title: Ewen Broudin-Caradec
 author: Ewen Broudin-Caradec
 shortbio: PHD Student in computer science
 description-meta: PHD Student
-location: 4 Avenue des Sciences, ENS Paris Saclay desk 2S64
+location: 4 Avenue des Sciences, ENS Paris Saclay desk 3S64
 email: firstname.lastname@lmf.cnrs.fr
 picture: img/red_circle.png
 picture-round: false
