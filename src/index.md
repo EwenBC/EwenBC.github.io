@@ -10,7 +10,9 @@ picture-round: false
 side-by-side: true
 pronouns: He/Him
 og-picture: https://basicpage.github.io/img/profile.png
+orcid: 0009-0000-9488-2419
 github: EwenBC
+discord: ewenbc
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),

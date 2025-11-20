@@ -137,6 +137,11 @@
           <i class="fa-brands fa-linkedin fa-fw"></i>
         </a>
         $endif$
+        $if(discord)$
+          <a href="https://discord.com/channels/@me" title="Discord: $discord$">
+          <i class="fa-brands fa-discord fa-fw"></i>
+        </a>
+        $endif$
       </div>
     </aside>
   </header>
