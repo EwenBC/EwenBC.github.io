@@ -5,7 +5,7 @@ shortbio: PHD Student in computer science
 description-meta: PHD Student
 location: 4 Avenue des Sciences, ENS Paris Saclay desk 3S64
 email: firstname.lastname@lmf.cnrs.fr
-picture: img/red_circle.png
+picture: img/ouistiti.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/Him
