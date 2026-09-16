@@ -198,11 +198,11 @@ papers:
 
 - Master degree
 
-<!--
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
-
+- [Lien du TP du
+  jour](https://filesender.renater.fr/?s=download&token=fd258c0c-f141-4d2f-9cc9-86b95f1143b0).
+<!--
 # Community service
 
 - 32 reviews for Journal of Awesomeness.
